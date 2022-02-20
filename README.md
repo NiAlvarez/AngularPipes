@@ -1,13 +1,5 @@
 # PipesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+This application was made in Angular 13, its just a helper for anyone trying to learn the basics of common and custom PIPES
 
-https://angular-pipes-helper.netlify.app/
-https://angular-pipes-helper.netlify.app/
-https://angular-pipes-helper.netlify.app/
-https://angular-pipes-helper.netlify.app/
-https://angular-pipes-helper.netlify.app/
-https://angular-pipes-helper.netlify.app/
-https://angular-pipes-helper.netlify.app/
-https://angular-pipes-helper.netlify.app/
 https://angular-pipes-helper.netlify.app/
